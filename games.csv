@@ -1,0 +1,101 @@
+game_id,game_name,game_mode,language,genre,rating
+1,The Witcher 3: Wild Hunt,single,"English, French, Italian, German, Spanish",open world,4.9
+2,Red Dead Redemption 2,single,"English, French, Italian, German, Spanish",open world,4.8
+3,Grand Theft Auto V,"single, multiplayer, online","English, French, Italian, German, Spanish",open world,4.7
+4,The Legend of Zelda: Breath of the Wild,single,"English, French, Italian, German, Spanish",Adventure,4.9
+5,Elden Ring,"single, multiplayer, online","English, French, Italian, German, Spanish",Action,4.8
+6,Call of Duty: Warzone,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.5
+7,FIFA 23,"single, multiplayer","English, French, Italian, German, Spanish",Racing,4.3
+8,Cyberpunk 2077,single,"English, French, Italian, German, Spanish",Action,4
+9,Fortnite,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.4
+10,God of War (2018),single,"English, French, Italian, German, Spanish",Action,4.9
+11,Horizon Zero Dawn,single,"English, French, Italian, German, Spanish",Adventure,4.7
+12,Overwatch 2,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.2
+13,Rocket League,"multiplayer, multiplayer, online","English, French, Italian, German, Spanish",Racing,4.4
+14,Assassin's Creed Valhalla,single,"English, French, Italian, German, Spanish",Action,4.3
+15,Minecraft,"single, multiplayer","English, French, Italian, German, Spanish",Adventure,4.8
+16,Counter-Strike 2,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.6
+17,Forza Horizon 5,"single, multiplayer","English, French, Italian, German, Spanish",Racing,4.7
+18,Star Wars Jedi: Fallen Order,single,"English, French, Italian, German, Spanish",Action,4.4
+19,Apex Legends,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.5
+20,Stardew Valley,"single, multiplayer","English, French, Italian, German, Spanish",Adventure,4.8
+21,Destiny 2,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.1
+22,Resident Evil 4 (Remake),single,"English, French, Italian, German, Spanish",Action,4.7
+23,Sea of Thieves,"multiplayer, multiplayer, online","English, French, Italian, German, Spanish",Adventure,4.3
+24,Dead Space (Remake),single,"English, French, Italian, German, Spanish",Action,4.6
+25,Final Fantasy XVI,single,"English, French, Italian, German, Spanish",Adventure,4.5
+26,Diablo IV,"single, multiplayer, online","English, French, Italian, German, Spanish",Action,4.4
+27,Street Fighter 6,"single, multiplayer","English, French, Italian, German, Spanish",Action,4.3
+28,Hogwarts Legacy,single,"English, French, Italian, German, Spanish",Adventure,4.6
+29,Marvel's Spider-Man: Miles Morales,single,"English, French, Italian, German, Spanish",Action,4.5
+30,Valorant,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.7
+31,The Last of Us Part I,single,"English, French, Italian, German, Spanish",Action,4.8
+32,Monster Hunter: Rise,"single, multiplayer, online","English, French, Italian, German, Spanish",Action,4.4
+33,Forza Motorsport (2023),"single, multiplayer","English, French, Italian, German, Spanish",Racing,4.5
+34,Dead Island 2,"single, multiplayer","English, French, Italian, German, Spanish",Action,4.2
+35,Age of Empires IV,"single, multiplayer","English, French, Italian, German, Spanish",Strategy,4.3
+36,Microsoft Flight Simulator (2020),single,"English, French, Italian, German, Spanish",Strategy,4.6
+37,Total War: Warhammer III,"single, multiplayer","English, French, Italian, German, Spanish",Strategy,4.4
+38,Persona 5 Royal,single,"English, French, Italian, German, Spanish",Adventure,4.8
+39,Dead by Daylight,"multiplayer, multiplayer, online","English, French, Italian, German, Spanish",Action,4.1
+40,Need for Speed Unbound,"single, multiplayer","English, French, Italian, German, Spanish",Racing,4
+41,Returnal,single,"English, French, Italian, German, Spanish",Action,4.3
+42,It Takes Two,"single, multiplayer","English, French, Italian, German, Spanish",Adventure,4.9
+43,Far Cry 6,"single, multiplayer","English, French, Italian, German, Spanish",Action,4.2
+44,Metro Exodus,single,"English, French, Italian, German, Spanish",Action,4.5
+45,Doom Eternal,"single, multiplayer","English, French, Italian, German, Spanish",shooting,4.6
+46,Starfield,single,"English, French, Italian, German, Spanish",open world,4.4
+47,Baldur's Gate 3,"single, multiplayer","English, French, Italian, German, Spanish",Adventure,4.9
+48,Alan Wake 2,single,"English, French, Italian, German, Spanish",Action,4.7
+49,Super Mario Odyssey,single,"English, French, Italian, German, Spanish",Adventure,4.9
+50,Animal Crossing: New Horizons,"single, multiplayer","English, French, Italian, German, Spanish",Adventure,4.8
+51,The Elder Scrolls V: Skyrim,single,"English, French, Italian, German, Spanish",open world,4.8
+52,Dead Cells,single,"English, French, Italian, German, Spanish",Action,4.7
+53,Halo Infinite,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.3
+54,Resident Evil Village,single,"English, French, Italian, German, Spanish",Action,4.6
+55,Devil May Cry 5,single,"English, French, Italian, German, Spanish",Action,4.5
+56,Final Fantasy VII Remake,single,"English, French, Italian, German, Spanish",Adventure,4.7
+57,Guilty Gear Strive,"multiplayer, multiplayer, online","English, French, Italian, German, Spanish",Action,4.4
+58,Death Stranding,single,"English, French, Italian, German, Spanish",Adventure,4.3
+59,Sekiro: Shadows Die Twice,single,"English, French, Italian, German, Spanish",Action,4.8
+60,Among Us,"multiplayer, online","English, French, Italian, German, Spanish",Strategy,4.6
+61,World of Warcraft,"multiplayer, online","English, French, Italian, German, Spanish",Adventure,4.5
+62,League of Legends,"multiplayer, online","English, French, Italian, German, Spanish",Strategy,4.4
+63,Super Smash Bros. Ultimate,"multiplayer, multiplayer, online","English, French, Italian, German, Spanish",Action,4.9
+64,The Sims 4,"single, multiplayer","English, French, Italian, German, Spanish",Strategy,4.2
+65,Left 4 Dead 2,"multiplayer, multiplayer, online","English, French, Italian, German, Spanish",shooting,4.7
+66,Portal 2,"single, multiplayer","English, French, Italian, German, Spanish",Strategy,4.9
+67,Divinity: Original Sin 2,"single, multiplayer","English, French, Italian, German, Spanish",Adventure,4.8
+68,Subnautica,single,"English, French, Italian, German, Spanish",Adventure,4.6
+69,Control,single,"English, French, Italian, German, Spanish",Action,4.5
+70,Shadow of the Colossus,single,"English, French, Italian, German, Spanish",Adventure,4.7
+71,Bloodborne,single,"English, French, Italian, German, Spanish",Action,4.8
+72,No Man's Sky,"single, multiplayer, online","English, French, Italian, German, Spanish",open world,4.4
+73,Disco Elysium,single,"English, French, Italian, German, Spanish",Adventure,4.9
+74,Hollow Knight,single,"English, French, Italian, German, Spanish",Adventure,4.8
+75,Destiny 2: Lightfall,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.3
+76,Warframe,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.5
+77,Persona 5 Strikers,"single, multiplayer","English, French, Italian, German, Spanish",Action,4.4
+78,The Outer Worlds,single,"English, French, Italian, German, Spanish",open world,4.2
+79,Red Dead Online,"multiplayer, online","English, French, Italian, German, Spanish",open world,4.1
+80,Tom Clancy's Rainbow Six Siege,"multiplayer, online","English, French, Italian, German, Spanish",shooting,4.6
+81,Deathloop,single,"English, French, Italian, German, Spanish",Action,4.3
+82,Kena: Bridge of Spirits,single,"English, French, Italian, German, Spanish",Adventure,4.5
+83,Psychonauts 2,single,"English, French, Italian, German, Spanish",Adventure,4.7
+84,Chivalry 2,"multiplayer, online","English, French, Italian, German, Spanish",Action,4.4
+85,Satisfactory,"single, multiplayer","English, French, Italian, German, Spanish",Strategy,4.6
+86,Return to Monkey Island,single,"English, French, Italian, German, Spanish",Adventure,4.5
+87,Teardown,"single, multiplayer","English, French, Italian, German, Spanish",Strategy,4.3
+88,Evil West,"single, multiplayer","English, French, Italian, German, Spanish",Action,4.2
+89,High On Life,single,"English, French, Italian, German, Spanish",shooting,4.1
+90,Atomic Heart,single,"English, French, Italian, German, Spanish",Action,4
+91,Wild Hearts,"single, multiplayer, online","English, French, Italian, German, Spanish",Action,4.3
+92,Like a Dragon: Ishin!,single,"English, French, Italian, German, Spanish",Action,4.4
+93,Octopath Traveler II,single,"English, French, Italian, German, Spanish",Adventure,4.6
+94,Resident Evil 4 VR,single,"English, French, Italian, German, Spanish",Action,4.7
+95,Company of Heroes 3,"single, multiplayer","English, French, Italian, German, Spanish",Strategy,4.5
+96,The Last of Us Part II,single,"English, French, Italian, German, Spanish",Action,4.8
+97,Ghost of Tsushima,single,"English, French, Italian, German, Spanish",open world,4.7
+98,Horizon Forbidden West,single,"English, French, Italian, German, Spanish",open world,4.6
+99,Uncharted 4: A Thief's End,"single, multiplayer","English, French, Italian, German, Spanish",Adventure,4.8
+100,The Legend of Zelda: Tears of the Kingdom,single,"English, French, Italian, German, Spanish",Adventure,4.9
