@@ -14,6 +14,8 @@ A Streamlit-based web application that recommends video games based on user pref
 - Efficient similarity matching with **cosine similarity**
 
 ---
+## 🌐 App Link:
+https://kunal370-video-game-recommendation-system-app-xihixu.streamlit.app/
 
 ## 🚀 Demo
 ![image](https://github.com/user-attachments/assets/99d1e602-b534-4b89-807a-e213756a2710)
